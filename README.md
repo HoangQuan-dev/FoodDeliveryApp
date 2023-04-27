@@ -2,6 +2,7 @@
 Android application using Java + Firebase
 
 This application is developed by using **Java**, **SDK Framework**. The database is stored on cloud - hosted NoSQL environment **Firebase**. 
+
 *Libraries use in this project :
 - Material for BottomNavBar.
 - Glide for load image from Firebase.
